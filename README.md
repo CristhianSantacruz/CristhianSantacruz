@@ -10,7 +10,5 @@
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,spring,typescript,angular,docker,git" />
-  </a><
-
-<br><br><br><br><br> 
+  </a>
 </div>
