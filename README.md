@@ -9,7 +9,7 @@
   </div>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,typescript,angular,docker,git" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,docker,git" />
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="50" height="50" />
 </div>
