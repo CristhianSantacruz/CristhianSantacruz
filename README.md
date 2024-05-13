@@ -13,10 +13,10 @@
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="50" height="50" />
 </div>
- #Mi sitio personal
- Estes es mi sitio Personal. Aqui puedes encontrar informacion sobre mi y mis proyectos 
- ## Contenido
- * [Intereses] (#quarkus)
+# Mi sitio personal
+  Este es mi sitio Personal. Aqui puedes encontrar informacion sobre mi y mis proyectos 
+## Contenido
+ * [Intereses] #Quarkus
 
 ## Informacion personal
 * Nombre: Cristhian Maickel Santacruz
