@@ -16,6 +16,8 @@
 
 
 ### Mi sitio Personal
+Este es mi sitio personal . Aqui puedes encontrar informacion sobre mi, mis proyectos e intereses.
+
 ## Contenido
 * Informacion General: Estudiante de Ingenieria en Computacion
 * Intereses: Backend, Spring Boot, Quarkus
