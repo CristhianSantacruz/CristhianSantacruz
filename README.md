@@ -13,10 +13,12 @@
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="50" height="50" />
 </div>
+# Mi sitio personal 
+Este es mi sitio personal. Aqui puedes encontrar informacion sobre mi.
 
 ## Contenido
-* Nombre: Cristhian Maickel Santacruz
-* [Intereses] (#Quakus)
+* Informacion General: Estudiante de Ingenieria en Computacion
+* Intereses: Backend, Spring Boot, Quarkus
   
 ## Informacion personal
 * Nombre: Cristhian Maickel Santacruz
