@@ -3,6 +3,9 @@
     <a href="https://www.linkedin.com/in/cristhiansantacruz/" target="_blank">
          <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
+     <a href="https://github.com/CristhianSantacruz" target="_blank">
+         <img src="https://skillicons.dev/icons?i=github" />
+    </a>
   <div style="text-align: center; margin-top: 20px;">
     <h4>Acerca de mí</h4>
     <p>Hola, me apasiona el desarrollo backend y tengo experiencia utilizando Java, especialmente con uno de sus frameworks más populares, Quarkus y Spring Boot. Siempre estoy buscando mejorar mis habilidades y recientemente he estado explorando Kotlin. 
