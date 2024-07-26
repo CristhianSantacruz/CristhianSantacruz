@@ -34,7 +34,7 @@
   <h2>Contenido</h2>
   <ul>
     <li>Información General: Estudiante de Ingeniería en Computación</li>
-    <li>Intereses: Backend, Spring Boot, Quarkus</li>
+    <li>Intereses: Java,Backend, Spring Boot, Quarkus</li>
   </ul>
 
   <h2>Información personal</h2>
