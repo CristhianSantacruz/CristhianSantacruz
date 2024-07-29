@@ -13,6 +13,9 @@
     <a href="https://github.com/CristhianSantacruz" target="_blank">
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub profile">
     </a>
+    <a href="https://cristhiansantacruz.github.io/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=htmx" alt="Blog Profile">
+    </a>
   </div>
 
   <div class="about-me">
