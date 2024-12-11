@@ -26,7 +26,7 @@
 
   <div class="skills">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,kotlin,spring,docker,git" alt="Skills" class="skill-icon">
+      <img src="https://skillicons.dev/icons?i=java,kotlin,spring,docker,git,flutter" alt="Skills" class="skill-icon">
     </a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="50" height="50" alt="Quarkus" class="skill-icon">
   </div>
