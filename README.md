@@ -33,13 +33,13 @@
   <h2>Content</h2>
   <ul>
     <li>General Info: Computer Engineering Student</li>
-    <li>Interests: Flutter, Mobile Development, Dart, UI/UX</li>
+    <li>Interests: Flutter, Mobile Development, Dart, UI/UX, Java, Php</li>
     <li>Background: Java, Backend, Spring Boot, Quarkus</li>
   </ul>
   <h2>Personal Information</h2>
   <ul>
     <li>Name: Cristhian Maickel Santacruz</li>
-    <li>Occupation: Student</li>
+    <li>Occupation:Developert</li>
     <li>Location: Guayaquil/Ecuador</li>
   </ul>
 </body>
