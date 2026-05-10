@@ -27,20 +27,13 @@
     </a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="50" height="50" alt="Quarkus" class="skill-icon">
   </div>
-  <h2>My Mobile Apps</h2>
-  <p>Check out my mobile applications portfolio. Here you can see the apps I've been working on!</p>
-  <p><a href="https://mappkel-mobile-launchpad-64s0swoj4-maickel-santacruzs-projects.vercel.app/" target="_blank">View my mobile apps →</a></p>
+ 
   <h2>Content</h2>
   <ul>
     <li>General Info: Computer Engineering Student</li>
     <li>Interests: Flutter, Mobile Development, Dart, UI/UX, Java, Php</li>
     <li>Background: Java, Backend, Spring Boot, Quarkus</li>
   </ul>
-  <h2>Personal Information</h2>
-  <ul>
-    <li>Name: Cristhian Maickel Santacruz</li>
-    <li>Occupation:Developert</li>
-    <li>Location: Guayaquil/Ecuador</li>
-  </ul>
+ 
 </body>
 </html>
